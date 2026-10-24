@@ -1,6 +1,7 @@
 ### Signal - A Simple Text Identifier
 
 > What's Signal?
+
 Signal is my first project. Currently, it only receives text input and identifies whether you typed actual text or not.
 Over the next 30 days, I'll be working on improving Signal, eventually reaching a point where it can identify sentiment of reviews using a pretrained small model.
 
